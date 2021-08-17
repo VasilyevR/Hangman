@@ -1,2 +1,2 @@
 # Hangman
-## Sample implementation of the game
+## Sample implementation of the game "Hangman" 
